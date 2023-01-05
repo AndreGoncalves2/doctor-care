@@ -45,6 +45,7 @@ function activateMenuAtCurrentSection(section) {
   }
 }
 function showNaviOnScroll() {
+  const navigation = document.querySelector('nav')
   if (scrollY > 0) {
     navigation.classList.add('scroll')
   } else {
