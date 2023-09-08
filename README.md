@@ -21,4 +21,4 @@ Principais funcionalidades:
 - Animacões dinâmicas
 - Versão mobile
 
-Clique para visualizar o projeto online: <a href="https://andregoncalves2.github.io/doctor-care/#home">projeto</a>
+Clique para visualizar o projeto online: <a href="https://andregoncalves2.github.io/doctor-care/#home" target="_blank" >projeto</a>
